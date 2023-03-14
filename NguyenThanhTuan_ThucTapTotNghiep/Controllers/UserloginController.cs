@@ -8,5 +8,9 @@ namespace NguyenThanhTuan_ThucTapTotNghiep.Controllers
 		{
 			return View();
 		}
+		public IActionResult Test()
+		{
+			return View();
+		}
 	}
 }
